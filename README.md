@@ -25,8 +25,8 @@ Hardware & the casing :
  5x 1u Mechanical Keycaps
  1x USB-C Data Cable
 
- 📂 Repository Contents
-`/macropad - design.f3d` - The master editable Fusion 360 CAD file.
+ 📂 file  Contents
+`/macropad-design 2.0.f3d` - The master editable Fusion 360 CAD file.
  `/macropad_backcover.3mf` - The 3D printable base casing.
  `/top cover 2.0.3mf` - The 3D printable top switch covering.
  `macropad.kicad_*` - The raw KiCad schematic and PCB layout files.
