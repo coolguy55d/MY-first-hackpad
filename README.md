@@ -31,8 +31,7 @@ Hardware & the casing :
  `/macropad_top_cover.3mf` - The 3D printable top switch covering.
  `macropad.kicad_*` - The raw KiCad schematic and PCB layout files.
 
- 🚀 Next Steps (Firmware)
-after i recieve the microprocessor i will start on working on the firmware 
+
 
 
 <img width="1512" height="953" alt="image" src="https://github.com/user-attachments/assets/1947885f-277f-4dc9-8715-41c195e5734e" />
