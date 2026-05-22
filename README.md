@@ -28,7 +28,7 @@ Hardware & the casing :
  📂 Repository Contents
 `/macropad - design.f3d` - The master editable Fusion 360 CAD file.
  `/macropad_backcover.3mf` - The 3D printable base casing.
- `/macropad_top_cover.3mf` - The 3D printable top switch covering.
+ `/top cover 2.0.3mf` - The 3D printable top switch covering.
  `macropad.kicad_*` - The raw KiCad schematic and PCB layout files.
 
 
