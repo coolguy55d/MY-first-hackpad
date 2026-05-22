@@ -1,7 +1,1 @@
-Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
-"soldering iron ","to sold the components ",1,8.00,"","aliexpress"
-"keycaps ( 1u standard mechanical keycaps)","for the keys of the macropad",5,2.50,"","aliexpress "
-"resistor ( 330 to 470 ohms ) ","needed for LEDs ",2,0.04,"","aliexpress "
-"LEDs , 3mm or 5mm standard through hole","to match keycaps in macropad",2,0.10,"","aliexpress "
-"mechanical switches MX-compatible ","switches for board ",5,2.00,"","aliexpress "
-"RP2040 board ","microprocessor for macrpad",,4.50,"","aliexpress"
+
