@@ -1,4 +1,4 @@
-[Tharuls macropad-bom.csv](https://github.com/user-attachments/files/28148949/Tharuls.macropad-bom.csv)MY first hackpad ever  ⌨️
+MY first hackpad ever  ⌨️
 hi my name is tharul dasindu and this is ;
 My first ever custom-designed macropad! This is a a 5 key macropad that can be used for different stuff  
 I am totally new to this world of innovation , i have a dream to be a engineer and i feel like this is s smart start for me to right now , i am working my best using my given resources to achieve some sort of level in building and creating 
