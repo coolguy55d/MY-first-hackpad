@@ -5,7 +5,7 @@ I am totally new to this world of innovation , i have a dream to be a engineer a
 
 🛠️ Features
 5-Key Layout: Perfect for custom shortcuts, media control.
-Custom 3D Printed case : A two-part case (Base and Top Plate) designed in Fusion 360, .
+Custom 3D Printed case : A two-part case (Base and Top case) designed in Fusion 360, .
 Custom PCB: Designed in KiCad to perfectly fit standard mechanical switches and through-hole LEDs.
 
  📦 Bill of Materials (BOM)
@@ -27,8 +27,8 @@ Hardware & the casing :
 
  📂 Repository Contents
 `/macropad - design.f3d` - The master editable Fusion 360 CAD file.
- `/macropad_backcover.3mf` - The 3D printable base enclosure.
- `/macropad_top_cover.3mf` - The 3D printable top switch plate.
+ `/macropad_backcover.3mf` - The 3D printable base casing.
+ `/macropad_top_cover.3mf` - The 3D printable top switch covering.
  `macropad.kicad_*` - The raw KiCad schematic and PCB layout files.
 
  🚀 Next Steps (Firmware)
