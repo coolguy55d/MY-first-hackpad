@@ -37,10 +37,16 @@ Hardware & the casing :
 
 <img width="1512" height="953" alt="image" src="https://github.com/user-attachments/assets/1947885f-277f-4dc9-8715-41c195e5734e" />
 <img width="1480" height="916" alt="image" src="https://github.com/user-attachments/assets/4a1b6cc4-d5c9-4b15-9cbf-2b6a33520962" />
+kicad pcb layouts and stuff for hackpad 
+
+
 <img width="1927" height="1044" alt="image" src="https://github.com/user-attachments/assets/ba6d7f09-9ed0-4cff-a090-eee19fd8c7a8" />
 <img width="1910" height="941" alt="image" src="https://github.com/user-attachments/assets/20b8c1cd-6f5c-4aab-b936-ff5a307b1eac" />
-<img width="643" height="465" alt="image" src="https://github.com/user-attachments/assets/49f98caf-a1e0-4dcb-b35f-c2f9f0bde02e" />
+3d modelling in fusion for hackpad 
 
+
+<img width="643" height="465" alt="image" src="https://github.com/user-attachments/assets/49f98caf-a1e0-4dcb-b35f-c2f9f0bde02e" />
+firmware for hackpad 
 
 
 <img width="730" height="257" alt="image" src="https://github.com/user-attachments/assets/dc403c28-8028-49e7-b825-003b1473dfe2" />
