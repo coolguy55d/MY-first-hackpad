@@ -45,8 +45,14 @@ kicad pcb layouts and stuff for hackpad
 3d modelling in fusion for hackpad 
 
 
+
+
+firmware for hackpad
 <img width="643" height="465" alt="image" src="https://github.com/user-attachments/assets/49f98caf-a1e0-4dcb-b35f-c2f9f0bde02e" />
-firmware for hackpad 
+
+
+
+
 
 
 <img width="730" height="257" alt="image" src="https://github.com/user-attachments/assets/dc403c28-8028-49e7-b825-003b1473dfe2" />
