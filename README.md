@@ -7,6 +7,7 @@ I am totally new to this world of innovation , i have a dream to be a engineer a
 5-Key Layout: Perfect for custom shortcuts, media control.
 Custom 3D Printed case : A two-part case (Base and Top case) designed in Fusion 360, .
 Custom PCB: Designed in KiCad to perfectly fit standard mechanical switches and through-hole LEDs.
+Custom firmware to do various actions such as copy paste , mute and pause media 
 
  📦 Bill of Materials (BOM)
 To build this exact macropad these are required :
@@ -30,7 +31,7 @@ Hardware & the casing :
  `/macropad_backcover.3mf` - The 3D printable base casing.
  `/top cover 2.0.3mf` - The 3D printable top switch covering.
  `macropad.kicad_*` - The raw KiCad schematic and PCB layout files.
-
+`CODE.py` - The code for the microcontroller to work 
 
 
 
@@ -38,6 +39,7 @@ Hardware & the casing :
 <img width="1480" height="916" alt="image" src="https://github.com/user-attachments/assets/4a1b6cc4-d5c9-4b15-9cbf-2b6a33520962" />
 <img width="1927" height="1044" alt="image" src="https://github.com/user-attachments/assets/ba6d7f09-9ed0-4cff-a090-eee19fd8c7a8" />
 <img width="1910" height="941" alt="image" src="https://github.com/user-attachments/assets/20b8c1cd-6f5c-4aab-b936-ff5a307b1eac" />
+<img width="643" height="465" alt="image" src="https://github.com/user-attachments/assets/49f98caf-a1e0-4dcb-b35f-c2f9f0bde02e" />
 
 the bill of materials :
 <img width="730" height="257" alt="image" src="https://github.com/user-attachments/assets/dc403c28-8028-49e7-b825-003b1473dfe2" />
