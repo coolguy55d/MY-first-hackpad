@@ -41,5 +41,7 @@ Hardware & the casing :
 <img width="1910" height="941" alt="image" src="https://github.com/user-attachments/assets/20b8c1cd-6f5c-4aab-b936-ff5a307b1eac" />
 <img width="643" height="465" alt="image" src="https://github.com/user-attachments/assets/49f98caf-a1e0-4dcb-b35f-c2f9f0bde02e" />
 
-the bill of materials :
+
+
 <img width="730" height="257" alt="image" src="https://github.com/user-attachments/assets/dc403c28-8028-49e7-b825-003b1473dfe2" />
+the bill of materials ( BOM ) 
