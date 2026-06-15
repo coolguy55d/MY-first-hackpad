@@ -47,5 +47,6 @@ firmware for hackpad
 
 
 
-<img width="730" height="257" alt="image" src="https://github.com/user-attachments/assets/dc403c28-8028-49e7-b825-003b1473dfe2" />
+<img width="1207" height="217" alt="image" src="https://github.com/user-attachments/assets/906c2d90-9612-4ea0-a6c7-6913f78f6535" />
+
 the bill of materials ( BOM ) 
