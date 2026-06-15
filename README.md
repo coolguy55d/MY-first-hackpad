@@ -1,37 +1,22 @@
-MY first hackpad ever  ⌨️
-hi my name is tharul dasindu and this is ;
-My first ever custom-designed macropad! This is a a 5 key macropad that can be used for different stuff  
-I am totally new to this world of innovation , i have a dream to be a engineer and i feel like this is s smart start for me to right now , i am working my best using my given resources to achieve some sort of level in building and creating 
+hi my name is Tharul and this is my first ever project attempt on creating a macropad ( aka hackpad ) . this project starts off as my first ever hardware project in my life . i picked this as this project seems interesting and easy to do . this project has many features such as :
+a 5 key layout 
+custom 3d printed case 
+custom pcb 
+and custom code 
 
-🛠️ Features
-5-Key Layout: Perfect for custom shortcuts, media control.
-Custom 3D Printed case : A two-part case (Base and Top case) designed in Fusion 360, .
-Custom PCB: Designed in KiCad to perfectly fit standard mechanical switches and through-hole LEDs.
-Custom firmware to do various actions such as copy paste , mute and pause media 
+to build a hackpad similar to my one you would require ; 
+Seeed Studio XIAO RP2040 Microcontroller - 1 
+MX-Compatible Mechanical switches - 5 
+Custom Pcb - 1 ( according to the provided pcb cad files ) 
+3d printed case with the top and bottom cover ( as provided according to the 3d files given ) 
+M2 machine screws - 4 
+1u mechanical Keycaps - 5 
+usb-c data cable - 1 
 
- 📦 Bill of Materials (BOM)
-To build this exact macropad these are required :
+all these items are fairly easy to find and are cheap in websites such as aliexpress except for the custom pcb which you might have to work with a local provider . 
 
-Core Electronics:
-1x Seeed Studio XIAO RP2040 Microcontroller
-5x MX-Compatible Mechanical Switches
-2x 3mm standard through-hole LEDs
-2x 220Ω (or 240Ω) 1/4W through-hole resistors
-1x Custom PCB (Order using the provided KiCad files)
+the following file contains are given below;
 
-Hardware & the casing :
- 1x 3D Printed Bottom Case (PLA/PETG)
- 1x 3D Printed Top Cover (PLA/PETG)
- 4x M2 Machine Screws (4mm - 5mm length)
- 5x 1u Mechanical Keycaps
- 1x USB-C Data Cable
-
- 📂 file  Contents
-`/macropad-design 2.0.f3d` - The master editable Fusion 360 CAD file.
- `/macropad_backcover.3mf` - The 3D printable base casing.
- `/top cover 2.0.3mf` - The 3D printable top switch covering.
- `macropad.kicad_*` - The raw KiCad schematic and PCB layout files.
-`CODE.py` - The code for the microcontroller to work 
 
 
 
