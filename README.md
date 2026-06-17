@@ -16,7 +16,7 @@ usb-c data cable - 1
 all these items are fairly easy to find and are cheap in websites such as aliexpress except for the custom pcb which you might have to work with a local provider . 
 
 the following file contains are given below;
-`/macropad-design 3.0.f3d` - the full editable 3d file 
+`/macropad-design 2.2.f3d` - the full editable 3d file 
 `/macropad_backcover.3mf` - the back casing 
 `/macropad_top-cover_2.3mf` - the top covering 
 `macropad.kicad_*` - the raw KiCad schematic and pcb files 
